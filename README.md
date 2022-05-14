@@ -5,5 +5,5 @@ During this challenge I had the opportunity to learn a lot about web api's and l
 Deployed Application: https://colinale.github.io/Web-APIs-Challenge/
 Github Repository: https://github.com/colinale/Web-APIs-Challenge
 
-Images: ![Screenshot of active Portfolio site](./quiz-image.png))
+Images: ![Screenshot of active Portfolio site](./quiz-image.png)
 
